@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =9
+let g:netrw_dirhist_1='/home/twatson/git/PROJ-Kyrgyzstan/config/apps/env'
+let g:netrw_dirhist_2='/etc/rc0.d'
+let g:netrw_dirhist_3='/home/twatson/git/lottery_terminal/mechs/python/mechs/agtech'
+let g:netrw_dirhist_4='/home/twatson/git/lottery_terminal/python/terminal'
+let g:netrw_dirhist_5='/home/twatson/git/PROJ-Guatemala/lottery_terminal/mechs/python/geneity_ssbt_mechs.egg-info'
+let g:netrw_dirhist_6='/home/twatson/git/whencaniwatch.it/app/routes'
+let g:netrw_dirhist_7='/home/twatson/git/pintsinthesun/src/guardian'
+let g:netrw_dirhist_8='/home/twatson/git/pintsinthesun/src/assets/js/app'
+let g:netrw_dirhist_9='/home/twatson/git/PROJ-Guatemala/lottery_terminal/mechs/python/mechs/agtech'
